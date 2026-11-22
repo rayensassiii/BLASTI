@@ -1,0 +1,10 @@
+{
+  "description": "Book Tunisian louage seats, check live locations and availability, and track journeys. Drivers can publish trips and manage reservations in real time.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
